@@ -8,6 +8,7 @@ Traversing Nested Objects
 3. Describe how to access inner properties
 4. Find an element in a nested array
 
+
 ## Introduction
 
 When we're looking for occurrences of a word or concept in a book, we often turn to the index. The index tells us where we can find more information on that concept — instead of, like a dictionary, giving us a definition, it gives us a _list_ that we can use to look up information. Additionally, it might include information that is related to the heading that we looked up in a _sublist_. We map the connections between these lists in our heads, and it doesn't cause any issues to think of one list containing other lists. (The index itself is, after all, a kind of list.)
